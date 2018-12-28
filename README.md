@@ -1,6 +1,8 @@
 # PHP_AI_Reply
 PHP智能回复，相似度计算，返回最匹配的答案以及相似距离，相似距离越大匹配程度越低，可以规定超过多少就算是匹配失败
 
+如果觉得好用，请给我一颗星星以鼓励，谢谢！
+
 # 使用说明
 * 第一步，设置字典
 closet::setWords(AskAndAns::getDictionaries());
